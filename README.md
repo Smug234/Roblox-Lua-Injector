@@ -1,18 +1,13 @@
 <p align="center">
   <img width="70%" src="https://user-images.githubusercontent.com/98148217/236020704-b931f1b0-3c4b-4bd3-95fb-f0c22e40a093.png">
-</p>
-<p align="center">
-	<a href="https://discord.gg/t8WMq5JKaK">
-		<img src="https://dcbadge.vercel.app/api/server/NQY28YSVAb">
-	</a>
-</p>
-<h3 align="center">LInjector | Open-source Lua Script Executor.</h3>
+
+<h3 align="center">LuaInjector | Open-source Lua Script Executor.</h3>
 
 
 LInjector is an open-source interface for developers, designed to be minimal and easily customizable. <br>
-We currently **DON'T SUPPORT ANY VERSION**. [Learn more about Hyperion Byfron](https://docs.google.com/document/d/1FRWTMnPZ-6fuyKjaT_YDU8tT1DrmLSw63YKtc2CfiMI/edit?usp=sharing).<br>
+We currently **DON'T SUPPORT ANY VERSION**. [Learn more about Hyperion Byfron](.<br>
 If you have a working Dynamic-Link Library (DLL), you can edit the source code of LInjector and make it work by yourself in any other way. <br>
-LInjector uses the Monaco editor, the same one that powers Visual Studio Code, with syntax highlighting, [developed by Krnl](https://krnl.place/) [and edited by Depso](https://github.com/depthso).
+LInjector uses the Monaco editor, the same one that powers Visual Studio Code, with syntax highlighting, .
 
 ## Screenshots
 <table>
@@ -29,7 +24,7 @@ LInjector uses the Monaco editor, the same one that powers Visual Studio Code, w
 <hr/>
 
 ## About
-LInjector is primarily developed by [Excel](https://github.com/ItzzExcel) and [Depso](https://github.com/depthso).\
+LInjector is primarily developed by [Excel] and [Depso]\
 It was created out of the necessity for a secure and open-source executor without the risks associated with popular ones.
 
 ## About the Structure of LInjector
@@ -55,14 +50,3 @@ We do not condone or support any unethical or malicious activities that may be f
 
 We urge all users to use LInjector only for development and utility purposes and to refrain from using it for any illegal or unethical activities. By using this development tool, users acknowledge and agree to assume all risks associated with its use.
 
-## Used Projects in LInjector
-- LInjector used the [Fluxus](https://fluxteam.net) (based of [WeAreDevs](https://wearedevs.net)) Modules to work.
-- [The text editor is Monaco.](https://microsoft.github.io/monaco-editor/)
-- Monaco Editor, edited by [Krnl](https://krnl.place/) and [depthso](https://github.com/depthso)
-- [Tab System by lxnnydev](https://github.com/lxnnydev/Winforms-Tab-System)
-- [Depso's UNC Patches](https://github.com/depthso/Roblox-UNC-Patches)
-- [MastersMZ Scripts API](https://mastersmzscripts.com)
-
-<hr/>
-
-— Made with love by Excel and Depso. <3
