@@ -2,15 +2,15 @@
   <img width="70%" src="https://user-images.githubusercontent.com/98148217/236020704-b931f1b0-3c4b-4bd3-95fb-f0c22e40a093.png">
 </p>
 <p align="center">
-	<a href="https://discord.gg/t8WMq5JKaK">
-		<img src="https://dcbadge.vercel.app/api/server/NQY28YSVAb">
+	<a href="">
+		<img src="">
 	</a>
 </p>
 <h3 align="center">LInjector | Open-source Lua Script Executor.</h3>
 
 
 LInjector is an open-source interface for developers, designed to be minimal and easily customizable. <br>
-We currently **DON'T SUPPORT ANY VERSION**. [Learn more about Hyperion Byfron](https://docs.google.com/document/d/1FRWTMnPZ-6fuyKjaT_YDU8tT1DrmLSw63YKtc2CfiMI/edit?usp=sharing).<br>
+We currently **DON'T SUPPORT ANY VERSION**. [Learn more about Hyperion Byfron](.<br>
 If you have a working Dynamic-Link Library (DLL), you can edit the source code of LInjector and make it work by yourself in any other way. <br>
 LInjector uses the Monaco editor, the same one that powers Visual Studio Code, with syntax highlighting, [developed by Krnl](https://krnl.place/) [and edited by Depso](https://github.com/depthso).
 
